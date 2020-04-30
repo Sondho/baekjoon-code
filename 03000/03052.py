@@ -1,6 +1,3 @@
-list_number = []
-for i in range(10):
-    input_number = int(input())
-    list_number.append(input_number%42)
+list_number = [int(input())%42 for x in range(10)]
 
-print(len(list(set(list_number))))
+print(len(set(list_number)))
