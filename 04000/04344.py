@@ -6,7 +6,5 @@ for i in range(count):
     for j in score:
         if j > average:
             good += 1
-    rate = good/len(score)*100
-    print("%.3f" %rate, end='')
-    print('%')
+    print(f"{good/len(score)*100:.3f}%")
 
