@@ -1,4 +1,3 @@
-sum = 0
-for i in range(1, int(input())+1):
-    sum = sum + i
-print(sum)
+for number in range(10, 21):
+    list_number = list(map(int, str(number)))
+    print(list_number)
