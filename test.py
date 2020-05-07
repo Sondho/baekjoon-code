@@ -1,2 +1,2 @@
-char = "baekjoon"
-print(char.find('c'))
+for i in range(2, 2):
+    print("hello")
