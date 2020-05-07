@@ -1,2 +1,2 @@
-for i in range(2, 2):
-    print("hello")
+char = 'Life is too short, You need Python'
+print(char[::-1])
