@@ -2,4 +2,4 @@
 
   - https://www.acmicpc.net/user/thseogh135
   
-  - 난이도 낮은 것부터 풀고 있습니다.
+  - 난이도 낮은 것부터 푸는 중
